@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Arroz Integral",
+      "description": "Arroz integral de alta calidad.",
+      "price": 25,
+      "img": "sin imagen",
+      "code": "abc555",
+      "stock": 33
+    },
+    {
+      "id": 2,
+      "title": "Azúcar Rubia",
+      "description": "Azúcar rubia orgánica.",
+      "price": 160,
+      "img": "sin imagen",
+      "code": "def456",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "title": "Harina de Trigo",
+      "description": "Harina de trigo refinada.",
+      "price": 200,
+      "img": "sin imagen",
+      "code": "ghi789",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "title": "Aceite de Oliva",
+      "description": "Aceite de oliva virgen extra.",
+      "price": 400,
+      "img": "sin imagen",
+      "code": "jkl012",
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "title": "Leche Entera",
+      "description": "Leche entera fresca y nutritiva.",
+      "price": 140,
+      "img": "sin imagen",
+      "code": "mno345",
+      "stock": 40
+    },
+    {
+      "id": 6,
+      "title": "Galletitas de Manteca",
+      "description": "Galletitas dulces y crujientes.",
+      "price": 280,
+      "img": "sin imagen",
+      "code": "pqr678",
+      "stock": 22
+    },
+    {
+      "id": 7,
+      "title": "Tomates Cherry",
+      "description": "Tomates cherry frescos y jugosos.",
+      "price": 100,
+      "img": "sin imagen",
+      "code": "stu901",
+      "stock": 35
+    },
+    {
+      "id": 8,
+      "title": "Cereal Integral",
+      "description": "Cereal integral rico en fibra.",
+      "price": 450,
+      "img": "sin imagen",
+      "code": "vwx234",
+      "stock": 18
+    },
+    {
+      "id": 9,
+      "title": "Pasta de Trigo",
+      "description": "Pasta de trigo 100% natural.",
+      "price": 190,
+      "img": "sin imagen",
+      "code": "yz1234",
+      "stock": 28
+    },
+    {
+      "id": 10,
+      "title": "Jugo Natural",
+      "description": "Jugo natural de frutas frescas.",
+      "price": 250,
+      "img": "sin imagen",
+      "code": "abc567",
+      "stock": 33
+    }
+]
+  
